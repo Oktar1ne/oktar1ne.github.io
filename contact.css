@@ -70,6 +70,8 @@ footer {
     width: 100%;
     text-align: center;
 
+    border-top: 1px solid white;
+
     position: fixed; /* It positions an element relative to the viewport */
     bottom: 0; /* It positions the footer at the bottom of the page. */
 }
